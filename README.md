@@ -3,7 +3,7 @@
 A modern, responsive web application to discover and explore movies and TV shows from around the world. Built with React and powered by the TVMaze API.
 
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Features](#features)
