@@ -39,7 +39,7 @@ The project is designed with a mobile-first approach, ensuring a fully responsiv
   - Movie poster image
   - Movie title
   - Release year
-  - Rating (e.g., ⭐ 8.5)
+  - Rating (e.g., 8.5)
   - A "See Details" button
 - **All Shows**: Fetches and displays all available TV shows from the API.
 
